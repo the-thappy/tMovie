@@ -1,5 +1,4 @@
-<?php include( '../track/src/class.visitorTracking.php' ); $visitors = new visitorTracking(); ?>
-<?php	include 'code/db.php'; ?>
+<?php  //include 'code/db.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
