@@ -1,0 +1,15 @@
+{
+  "short_name": "tHappy TMDB",
+  "name": "tHappy Movie",
+  "icons": [
+    {
+      "src":"/tmdb/icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/tmdb/?utm_source=homescreen",
+  "background_color": "",
+  "Theme_color": "",
+  "display": "standalone"
+}
